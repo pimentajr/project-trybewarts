@@ -34,10 +34,10 @@ Com os softwares instalados, siga as instruções abaixo:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/pimentajr/project-trybewarts
+git clone https://github.com/pimentajr/trybe-trybewarts
 
 # Entrar no diretório
-cd project-trybewarts
+cd trybe-trybewarts
 
 # Baixar as dependências
 npm i
